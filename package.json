@@ -63,6 +63,7 @@
       "iconv-lite":">= 0.1.2"
    },
    "devDependencies":{
+      "coffee-script":">= 1.4.0",
       "testify":"0.1.0",
       "express":"2.5.10",
       "rephraser":">= 0.1.6",
